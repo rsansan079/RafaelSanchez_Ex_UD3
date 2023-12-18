@@ -78,6 +78,7 @@ public class CrearPartido extends javax.swing.JFrame
     }
     
     
+    
     private void bAgregarPartidoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bAgregarPartidoActionPerformed
         partidoNuevo(tPartido.getText());
     }//GEN-LAST:event_bAgregarPartidoActionPerformed

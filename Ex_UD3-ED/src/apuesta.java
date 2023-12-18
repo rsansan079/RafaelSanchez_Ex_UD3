@@ -18,6 +18,7 @@ public class Apuesta extends javax.swing.JFrame {
         this.setResizable(Boolean.FALSE);
     }
 
+    
    
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents

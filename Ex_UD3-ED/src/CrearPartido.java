@@ -77,6 +77,7 @@ public class CrearPartido extends javax.swing.JFrame
         tPartido.requestFocus();
     }
     
+    
     private void bAgregarPartidoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bAgregarPartidoActionPerformed
         partidoNuevo(tPartido.getText());
     }//GEN-LAST:event_bAgregarPartidoActionPerformed
